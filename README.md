@@ -1,4 +1,5 @@
 ## Hi there 👋
+#About me:
 - 🔭 I’m currently working on my PhD
 - 🌱 I’m currently learning multi-omics
 - 🤔 I’m looking for help with coding and analysis projects
