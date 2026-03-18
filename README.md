@@ -1,4 +1,3 @@
-# Hi
 ## About me:
 - Currently working on my PhD
 - Learning multi-omics
